@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Bumble Bee Tuner
+title: BumbleBee Tuner
 ---
 
-# Bumble Bee Tuner
+# BumbleBee Tuner
 
 A precision instrument tuner with a real strobe display and Apple Watch companion. Built for musicians who care about accuracy.
 

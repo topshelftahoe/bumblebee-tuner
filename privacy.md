@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Privacy Policy — Bumble Bee Tuner
+title: Privacy Policy — BumbleBee Tuner
 ---
 
-# Privacy Policy — Bumble Bee Tuner
+# Privacy Policy — BumbleBee Tuner
 
-_Last updated: April 13, 2026_
+_Last updated: October 8, 2026_
 
 ## Overview
 
-Bumble Bee Tuner ("the App") is developed by TopShelfTahoe. This privacy policy describes how the App handles your data.
+BumbleBee Tuner ("the App") is developed by TopShelfTahoe. This privacy policy describes how the App handles your data.
 
 **The short version: we don't collect any data. Your audio never leaves your device.**
 
@@ -26,7 +26,7 @@ When you close the App or stop the tuner, microphone access ends immediately.
 
 ## Data Collection
 
-Bumble Bee Tuner does **not** collect, store, or transmit:
+BumbleBee Tuner does **not** collect, store, or transmit:
 
 - Personal information
 - Audio recordings
@@ -51,4 +51,4 @@ If this policy changes, the updated version will be posted here with a new "Last
 
 If you have questions about this privacy policy, contact us at:
 
-support@topshelfTahoe.com
+topshelftahoe@icloud.com
